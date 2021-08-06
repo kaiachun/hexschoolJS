@@ -1,4 +1,4 @@
-// console.log(`apiPath:${apiPath}, token: ${token}`);
+
 
 // 取得DOM
 const productList = document.querySelector('.productWrap');
